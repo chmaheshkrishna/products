@@ -1,0 +1,10 @@
+//Products JSON
+
+http://localhost:8080/products/1
+{
+  "id": 1,
+  "name": "Product1",
+  "active": true,
+  "categoryId": 1,
+  "description": "product Description"
+}
